@@ -1,7 +1,9 @@
 # RaspberryPi-3B-BareMetal
 
 ## Description
-This repository is dedicated to showcasing bare metal programming on the Raspberry Pi 3B using ARMv8 assembly. It features low-level control of the hardware to implement functionalities such as Framebuffer swapping, an AI-powered game of Pong with multiplayer support and 3 different modes.
+This repository is dedicated to showcasing bare metal programming on the Raspberry Pi 3B using ARMv8 assembly.
+
+It features low-level control of the hardware to implement functionalities such as Framebuffer swapping, an AI-powered game of Pong with multiplayer support and 3 different modes.
 
 Players and navigation are controlled by buttons connected to GPIO pins.
 
